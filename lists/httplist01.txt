@@ -130,3 +130,7 @@ fastviewer.com
 sixsofe.serviziospedalieri.it
 trasparenza.aziendazero.piemonte.it
 nsis.sanita.it
+95.110.175.243
+95.110.175.62
+cloudone.trendmicro.com
+gateway-control.workload.de-1.cloudone.trendmicro.com
