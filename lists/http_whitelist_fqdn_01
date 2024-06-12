@@ -169,3 +169,10 @@ dgv.tcag.ca
 ucsc.edu
 *.tcag.ca
 *.ucsc.edu
+*.ubuntu.com
+*.docker.com
+gitlab.fujifilm.it
+registry.syncromed.it
+*.docker.io
+*.hub.docker.com
+*.gcr.io
